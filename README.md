@@ -19,7 +19,7 @@
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
-| 09:15 | [PyPI: Past, Present and Future]() | | | | | |
+| 09:15 | [PyPI: Past, Present and Future](https://youtu.be/Rps9lHflkCg?t=31m35s) | | | | | |
 | 10:30 | []() | []() | []() | [Cython to speed up your Python code](https://youtu.be/Uw717sejn5c?t=14m13s) | []() | []() |
 | 11:20 | []() | []() | []() | [Microservices and Serverless in Python projects](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
 | 12:10 | []() | []() | []() | [Django structure for scale and longevity](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
