@@ -19,13 +19,17 @@
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=14m13s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=3h44m19s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=5h14m58s) | []() | []() |
-| 00:00 | []() | []() | []() | [](https://youtu.be/Uw717sejn5c?t=5h46m19s) | []() | []() |
+| 09:15 | [PyPI: Past, Present and Future]() | | | | | |
+| 10:30 | []() | []() | []() | [Cython to speed up your Python code](https://youtu.be/Uw717sejn5c?t=14m13s) | []() | []() |
+| 11:20 | []() | []() | []() | [Microservices and Serverless in Python projects](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
+| 12:10 | []() | []() | []() | [Django structure for scale and longevity](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
+| 14:00 | []() | []() | []() | [Iteration Inside Out - Python's Iteration Protocol](https://youtu.be/Uw717sejn5c?t=3h44m19s) | []() | []() |
+| 14:35 | []() | []() | []() | [Developing in a black hole: vim, tmux, httpie and jq](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
+| 15:30 | []() | []() | []() | [PEP 557* versus the world](https://youtu.be/Uw717sejn5c?t=5h14m58s) | []() | []() |
+| 16:05 | []() | []() | []() | [Getting Started with Mypy and Type Checking](https://youtu.be/Uw717sejn5c?t=5h46m19s) | []() | []() |
+| 16:45 | []() | []() | []() | []() | []() | []() |
+| 17:30 | []() | []() | []() | []() | []() | []() |
+| 17:45 | [Lightning Talks]() | []() | []() | []() | []() | []() |
 
 ## Friday 28th July
 
