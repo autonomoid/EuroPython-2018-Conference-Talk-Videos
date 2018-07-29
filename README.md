@@ -1,6 +1,6 @@
 # EuroPython 2018 Conference Talk Videos
 
-Click on a link below to jump straight to the right point in the right stream - enjoy!
+Click on a link below to jump straight to the right point in the right stream - enjoy! [work in progress]
 
 ## Wednesday 26th July
 
