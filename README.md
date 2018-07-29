@@ -1,5 +1,7 @@
 # EuroPython 2018 Conference Talk Videos
 
+Click on a link below to jump straight to the right point in the right stream - enjoy!
+
 ## Wednesday 26th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
