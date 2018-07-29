@@ -11,6 +11,6 @@ Wednesday 26th July
 | 14:00 | [Python 2 is dead! Drag your old code into the modern age.](https://youtu.be/FsvmT2Ir7B8?t=4h50m14s) | Fuzzy Matching - Smart Way of Finding Similar Names Using Fuzzywuzzy | How is python used in biomolecular sciences? | Python on Windows is Okay, Actually | Trio: A pythonic way to do async programming | How to develop your project from an idea to architecture design in 50 minutes |
 | 14:35 | [What's new in Python 3.7](https://youtu.be/FsvmT2Ir7B8?t=5h25m19s) | Recipe for text analysis in social media | All You Need is Pandas: Unexpected Success Stories | Autism in development | What makes coding for MicroPython different? | |
 | 15:30 | [Quantum Computing: a Very Gentle Glimpse into a Possible Future](https://youtu.be/FsvmT2Ir7B8?t=6h20m21s) | Bad hotel again? Find your perfect match! | ETL pipeline to achieve reliability at scale | reno: A New Way to Manage Release Notes | Asyncio in production | From Zero to Azure with Python, Docker containers, and Visual Studio… Code |
-| 16:05 | [Recursion, Fractals, and the Python Turtle Module]() | How do I get the job I want? | A Jupyter Enhancement Proposal Story | Python, Docker, Kubernetes, and beyond? | Let’s embrace WebAssembly! | Washing away code smells |
-| 16:45 | [White Mars: living far away from any form of life]() | | | | | |
-| 17:30 | [Lightning Talks]() | | | | | |
+| 16:05 | [Recursion, Fractals, and the Python Turtle Module](https://youtu.be/FsvmT2Ir7B8?t=6h53m27s) | How do I get the job I want? | A Jupyter Enhancement Proposal Story | Python, Docker, Kubernetes, and beyond? | Let’s embrace WebAssembly! | Washing away code smells |
+| 16:45 | [White Mars: living far away from any form of life](https://youtu.be/FsvmT2Ir7B8?t=7h38m58s) | | | | | |
+| 17:30 | [Lightning Talks](https://youtu.be/FsvmT2Ir7B8?t=8h35m10s) | | | | | |
