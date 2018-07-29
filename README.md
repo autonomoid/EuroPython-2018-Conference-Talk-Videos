@@ -40,13 +40,13 @@ Abstracts and full schedule available at the [EuroPython 2018 website](https://e
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
 | 09:15 | [Citizen Science with Python](https://youtu.be/7uSjCp1wOrw?t=27m13s) | []() | []() | []() | []() | []() |
-| 10:30 | [EduBlocks - Making the transition to Python easier!]() | []() | []() | []() | []() | []() |
-| 11:20 | [Get Productive with Python in Visual Studio Code]() | []() | []() | []() | []() | []() |
-| 12:10 | [Rehabilitating Pickle]() | []() | []() | []() | []() | []() |
-| 14:00 | [Quart a asyncio alternative to Flask]() | []() | []() | []() | []() | []() |
-| 14:35 | [Integration Tests with Super Powers]() | []() | []() | []() | []() | []() |
-| 15:30 | [Faster Python startup]() | []() | []() | []() | []() | []() |
-| 16:05 | [Bytecodes and stacks: A look at CPython’s compiler and its… execution model]() | []() | []() | []() | []() | []() |
-| 16:45 | [Sprint Orientation]() | []() | []() | []() | []() | []() |
-| 17:15 | [Lightning Talks]() | []() | []() | []() | []() | []() |
+| 10:30 | [EduBlocks - Making the transition to Python easier!](https://youtu.be/7uSjCp1wOrw?t=1h41m35s) | []() | []() | []() | []() | []() |
+| 11:20 | [Get Productive with Python in Visual Studio Code](https://youtu.be/7uSjCp1wOrw?t=2h31m17s) | []() | []() | []() | []() | []() |
+| 12:10 | [Rehabilitating Pickle](https://youtu.be/7uSjCp1wOrw?t=3h21m1s) | []() | []() | []() | []() | []() |
+| 14:00 | [Quart a asyncio alternative to Flask](https://youtu.be/7uSjCp1wOrw?t=5h11m36s) | []() | []() | []() | []() | []() |
+| 14:35 | [Integration Tests with Super Powers](https://youtu.be/7uSjCp1wOrw?t=5h47m25s) | []() | []() | []() | []() | []() |
+| 15:30 | [Faster Python startup](https://youtu.be/7uSjCp1wOrw?t=6h42m9s) | []() | []() | []() | []() | []() |
+| 16:05 | [Bytecodes and stacks: A look at CPython’s compiler and its… execution model](https://youtu.be/7uSjCp1wOrw?t=7h15m48s) | []() | []() | []() | []() | []() |
+| 16:45 | [Sprint Orientation](https://youtu.be/7uSjCp1wOrw?t=8h5m8s) | []() | []() | []() | []() | []() |
+| 17:15 | [Lightning Talks](https://youtu.be/7uSjCp1wOrw?t=8h28m43s) | []() | []() | []() | []() | []() |
 
