@@ -24,7 +24,7 @@
 | 11:20 | [Interoperability Rules for an European API Ecosystem: do we still need SOAP?](https://youtu.be/Rps9lHflkCg?t=2h36m41s) | []() | []() | [Microservices and Serverless in Python projects](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
 | 12:10 | [Understanding and Applying CQRS](https://youtu.be/Rps9lHflkCg?t=3h23m50s) | []() | []() | [Django structure for scale and longevity](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
 | 14:00 | [How to make money using Python - Unused potential in the Enterprise… World](https://youtu.be/Rps9lHflkCg?t=5h13m53s) | []() | []() | [Iteration Inside Out - Python's Iteration Protocol](https://youtu.be/Uw717sejn5c?t=3h44m19s) | []() | []() |
-| 14:35 | [https://youtu.be/Rps9lHflkCg?t=5h48m39s](More Than You Ever Wanted To Know About Python Functions) | []() | []() | [Developing in a black hole: vim, tmux, httpie and jq](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
+| 14:35 | [More Than You Ever Wanted To Know About Python Functions](https://youtu.be/Rps9lHflkCg?t=5h48m39s) | []() | []() | [Developing in a black hole: vim, tmux, httpie and jq](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
 | 15:30 | [10 years of EuroPython and the Python community](https://youtu.be/Rps9lHflkCg?t=6h44m54s) | []() | []() | [PEP 557* versus the world](https://youtu.be/Uw717sejn5c?t=5h14m58s) | []() | []() |
 | 16:05 | []() | []() | []() | [Getting Started with Mypy and Type Checking](https://youtu.be/Uw717sejn5c?t=5h46m19s) | []() | []() |
 | 16:45 | []() | []() | []() | []() | []() | []() |
