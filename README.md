@@ -2,7 +2,7 @@
 
 Click on a link below to jump straight to the right point in the right stream - enjoy! [work in progress]
 
-Abstract and full schedule available at the [EuroPython 2018 website](https://ep2018.europython.eu/p3/schedule/ep2018/).
+Abstracts and full schedule available at the [EuroPython 2018 website](https://ep2018.europython.eu/p3/schedule/ep2018/).
 
 ## Wednesday 26th July
 
@@ -31,9 +31,9 @@ Abstract and full schedule available at the [EuroPython 2018 website](https://ep
 | 14:35 | [More Than You Ever Wanted To Know About Python Functions](https://youtu.be/Rps9lHflkCg?t=5h48m39s) | []() | []() | [Developing in a black hole: vim, tmux, httpie and jq](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
 | 15:30 | [10 years of EuroPython and the Python community](https://youtu.be/Rps9lHflkCg?t=6h44m54s) | []() | []() | [PEP 557* versus the world](https://youtu.be/Uw717sejn5c?t=5h14m58s) | []() | []() |
 | 16:05 | [Marge: A bot for better Git'ing](https://youtu.be/Rps9lHflkCg?t=7h15m30s) | []() | []() | [Getting Started with Mypy and Type Checking](https://youtu.be/Uw717sejn5c?t=5h46m19s) | []() | []() |
-| 16:45 | []() | []() | []() | []() | []() | []() |
-| 17:30 | []() | []() | []() | []() | []() | []() |
-| 17:45 | [Lightning Talks]() | []() | []() | []() | []() | []() |
+| 16:45 | [How to Ignore Most Startup Advice and Build a Decent Software Business](https://youtu.be/Rps9lHflkCg?t=8h) | []() | []() | []() | []() | []() |
+| 17:30 | [Why Python is at the heart of Smarkets](https://youtu.be/Rps9lHflkCg?t=8h44m1s) | []() | []() | []() | []() | []() |
+| 17:45 | [Lightning Talks](https://youtu.be/Rps9lHflkCg?t=9h1m3s) | []() | []() | []() | []() | []() |
 
 ## Friday 28th July
 
