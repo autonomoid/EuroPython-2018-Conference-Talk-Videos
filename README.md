@@ -5,7 +5,7 @@ Videos, Jupyter Notebooks, Git Repos, Links, Contact details
 
 Wednesday 26th July
 
-| Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
+| Time |  Pentland | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
 | 09:15 | Die Threads |   |   |   |   |   |
 | 10:30 | SSLError, now what? | Understanding and Implementing Recurrent Neural Networks using Python | Python in scientific computing: what works and what doesn't | Asyncio in Python 3.7 and 3.8. | How to write Rust instead of C, and get away with it (yes, it's a Python talk) | The naïve programmer |
