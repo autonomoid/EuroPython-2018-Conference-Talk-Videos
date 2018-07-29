@@ -2,7 +2,7 @@
 
 Wednesday 26th July
 
-| Time |  Pentland | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
+| Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
 | 09:15 | [Die Threads](https://youtu.be/FsvmT2Ir7B8?t=25m56s) |   |   |   |   |   |
 | 10:30 | [SSLError, now what?](https://youtu.be/FsvmT2Ir7B8?t=1h38m25s) | Understanding and Implementing Recurrent Neural Networks using Python | Python in scientific computing: what works and what doesn't | Asyncio in Python 3.7 and 3.8. | How to write Rust instead of C, and get away with it (yes, it's a Python talk) | The naïve programmer |
