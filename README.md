@@ -39,10 +39,10 @@ Abstracts and full schedule available at the [EuroPython 2018 website](https://e
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
-| 09:15 | [Citizen Science with Python](https://youtu.be/7uSjCp1wOrw?t=27m13s) | [Addressing multithreading and multiprocessing in transparent and Pythonic ways](https://youtu.be/x5tcYO-SVnc?t=3m43s) | []() | []() | []() | []() |
-| 10:30 | [EduBlocks - Making the transition to Python easier!](https://youtu.be/7uSjCp1wOrw?t=1h41m35s) | [Good features beat algorithms](https://youtu.be/x5tcYO-SVnc) | []() | []() | []() | []() |
-| 11:20 | [Get Productive with Python in Visual Studio Code](https://youtu.be/7uSjCp1wOrw?t=2h31m17s) | []() | []() | []() | []() | []() |
-| 12:10 | [Rehabilitating Pickle](https://youtu.be/7uSjCp1wOrw?t=3h21m1s) | []() | []() | []() | []() | []() |
+| 09:15 | [Citizen Science with Python](https://youtu.be/7uSjCp1wOrw?t=27m13s) | | []() | []() | []() | []() |
+| 10:30 | [EduBlocks - Making the transition to Python easier!](https://youtu.be/7uSjCp1wOrw?t=1h41m35s) | [Addressing multithreading and multiprocessing in transparent and Pythonic ways](https://youtu.be/x5tcYO-SVnc?t=3m43s) | []() | []() | []() | []() |
+| 11:20 | [Get Productive with Python in Visual Studio Code](https://youtu.be/7uSjCp1wOrw?t=2h31m17s) | [Good features beat algorithms](https://youtu.be/x5tcYO-SVnc) | []() | []() | []() | []() |
+| 12:10 | [Rehabilitating Pickle](https://youtu.be/7uSjCp1wOrw?t=3h21m1s) | [Processing Geodata using Python and Open Source Modules](https://youtu.be/x5tcYO-SVnc?t=1h42m55s) | []() | []() | []() | []() |
 | 14:00 | [Quart a asyncio alternative to Flask](https://youtu.be/7uSjCp1wOrw?t=5h11m36s) | []() | []() | []() | []() | []() |
 | 14:35 | [Integration Tests with Super Powers](https://youtu.be/7uSjCp1wOrw?t=5h47m25s) | []() | []() | []() | []() | []() |
 | 15:30 | [Faster Python startup](https://youtu.be/7uSjCp1wOrw?t=6h42m9s) | []() | []() | []() | []() | []() |
