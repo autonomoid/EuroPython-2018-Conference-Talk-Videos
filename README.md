@@ -1,6 +1,6 @@
 # EuroPython 2018 Conference Talk Videos
 
-Wednesday 26th July
+## Wednesday 26th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
@@ -14,3 +14,15 @@ Wednesday 26th July
 | 16:05 | [Recursion, Fractals, and the Python Turtle Module](https://youtu.be/FsvmT2Ir7B8?t=6h53m27s) | How do I get the job I want? | [A Jupyter Enhancement Proposal Story](https://youtu.be/dj23vLcdr4w?t=5h30m36s) | [Python, Docker, Kubernetes, and beyond?](https://youtu.be/w-XECcIWnlQ?t=5h40m44s) | [Let’s embrace WebAssembly!](https://youtu.be/qRqDgJLM568?t=5h29m15s) | Washing away code smells |
 | 16:45 | [White Mars: living far away from any form of life](https://youtu.be/FsvmT2Ir7B8?t=7h38m58s) | | | | | |
 | 17:30 | [Lightning Talks](https://youtu.be/FsvmT2Ir7B8?t=8h35m10s) | | | | | |
+
+## Thursday 27th July
+
+| Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
+|---|---|---|---|---|---|---|
+| 00:00 | []() |   |   |   |   |   |
+
+## Friday 28th July
+
+| Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
+|---|---|---|---|---|---|---|
+| 00:00 | []() |   |   |   |   |   |
