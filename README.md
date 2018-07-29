@@ -39,12 +39,14 @@ Abstracts and full schedule available at the [EuroPython 2018 website](https://e
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
-| 00:00 | []() | []() | []() | []() | []() | []() |
+| 09:15 | [Citizen Science with Python](https://youtu.be/7uSjCp1wOrw?t=27m13s) | []() | []() | []() | []() | []() |
+| 10:30 | [EduBlocks - Making the transition to Python easier!]() | []() | []() | []() | []() | []() |
+| 11:20 | [Get Productive with Python in Visual Studio Code]() | []() | []() | []() | []() | []() |
+| 12:10 | [Rehabilitating Pickle]() | []() | []() | []() | []() | []() |
+| 14:00 | [Quart a asyncio alternative to Flask]() | []() | []() | []() | []() | []() |
+| 14:35 | [Integration Tests with Super Powers]() | []() | []() | []() | []() | []() |
+| 15:30 | [Faster Python startup]() | []() | []() | []() | []() | []() |
+| 16:05 | [Bytecodes and stacks: A look at CPython’s compiler and its… execution model]() | []() | []() | []() | []() | []() |
+| 16:45 | [Sprint Orientation]() | []() | []() | []() | []() | []() |
+| 17:15 | [Lightning Talks]() | []() | []() | []() | []() | []() |
 
