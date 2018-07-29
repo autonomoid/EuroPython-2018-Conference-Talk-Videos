@@ -20,9 +20,9 @@
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
 | 09:15 | [PyPI: Past, Present and Future](https://youtu.be/Rps9lHflkCg?t=31m35s) | | | | | |
-| 10:30 | []() | []() | []() | [Cython to speed up your Python code](https://youtu.be/Uw717sejn5c?t=14m13s) | []() | []() |
-| 11:20 | []() | []() | []() | [Microservices and Serverless in Python projects](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
-| 12:10 | []() | []() | []() | [Django structure for scale and longevity](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
+| 10:30 | [How to Write Deployment-friendly Applications](https://youtu.be/Rps9lHflkCg?t=1h43m30s) | []() | []() | [Cython to speed up your Python code](https://youtu.be/Uw717sejn5c?t=14m13s) | []() | []() |
+| 11:20 | [Interoperability Rules for an European API Ecosystem: do we still need SOAP?](https://youtu.be/Rps9lHflkCg?t=2h36m41s) | []() | []() | [Microservices and Serverless in Python projects](https://youtu.be/Uw717sejn5c?t=1h5m57s) | []() | []() |
+| 12:10 | [Understanding and Applying CQRS](https://youtu.be/Rps9lHflkCg?t=3h23m50s) | []() | []() | [Django structure for scale and longevity](https://youtu.be/Uw717sejn5c?t=1h54m35s) | []() | []() |
 | 14:00 | []() | []() | []() | [Iteration Inside Out - Python's Iteration Protocol](https://youtu.be/Uw717sejn5c?t=3h44m19s) | []() | []() |
 | 14:35 | []() | []() | []() | [Developing in a black hole: vim, tmux, httpie and jq](https://youtu.be/Uw717sejn5c?t=4h19m26s) | []() | []() |
 | 15:30 | []() | []() | []() | [PEP 557* versus the world](https://youtu.be/Uw717sejn5c?t=5h14m58s) | []() | []() |
