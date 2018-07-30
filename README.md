@@ -2,7 +2,7 @@
 
 <img src="EPS-Logo-v3-1024px-round.webp" width="100">
 
-Click on a link below to jump straight to the right point in the right stream - enjoy! [work in progress]
+Click on a link below to jump straight to the right point in the right stream - enjoy!
 
 Abstracts and full schedule available at the [EuroPython 2018 website](https://ep2018.europython.eu/p3/schedule/ep2018/).
 
