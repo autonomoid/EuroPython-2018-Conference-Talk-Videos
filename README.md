@@ -6,6 +6,8 @@ Click on a link below to jump straight to the right point in the right stream - 
 
 Abstracts and full schedule available at the [EuroPython 2018 website](https://ep2018.europython.eu/p3/schedule/ep2018/).
 
+Star for appreciation :)
+
 ## Wednesday 25th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
