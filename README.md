@@ -1,6 +1,6 @@
 # EuroPython 2018 Conference Talk Videos
 
-<img src="EPS-Logo-v3-1024px-round.webp" width="100">
+<img src="ep_logo.png" width="100">
 
 Click on a link below to jump straight to the right point in the right stream - enjoy!
 
