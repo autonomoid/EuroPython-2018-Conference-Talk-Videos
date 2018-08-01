@@ -6,7 +6,7 @@ Click on a link below to jump straight to the right point in the right stream - 
 
 Abstracts and full schedule available at the [EuroPython 2018 website](https://ep2018.europython.eu/p3/schedule/ep2018/).
 
-## Wednesday 26th July
+## Wednesday 25th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Abstracts and full schedule available at the [EuroPython 2018 website](https://e
 | 16:45 | [White Mars: living far away from any form of life](https://youtu.be/FsvmT2Ir7B8?t=7h38m58s) | | | | | |
 | 17:30 | [Lightning Talks](https://youtu.be/FsvmT2Ir7B8?t=8h35m10s) | | | | | |
 
-## Thursday 27th July
+## Thursday 26th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Abstracts and full schedule available at the [EuroPython 2018 website](https://e
 | 17:30 | [Why Python is at the heart of Smarkets](https://youtu.be/Rps9lHflkCg?t=8h44m1s) | []() | []() | []() | []() | []() |
 | 17:45 | [Lightning Talks](https://youtu.be/Rps9lHflkCg?t=9h1m3s) | []() | []() | []() | []() | []() |
 
-## Friday 28th July
+## Friday 27th July
 
 | Time |  Smarkets | PyCharm [PyData] | Fintry [PyData] |  Moorfoot |  Lammermuir | Kilsyth |
 |---|---|---|---|---|---|---|
